@@ -1,0 +1,29 @@
+body{
+    background-color: #e4e4e4;
+}
+.food-list-container {
+    width: 800px;
+    text-align: left;
+    margin: 0 auto;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .food-ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .food-li {
+    margin-bottom: 8px;
+  }
+  
+  .food-name {
+    font-weight: bold;
+    margin-right: 4px;
+  }
+  
